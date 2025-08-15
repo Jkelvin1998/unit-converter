@@ -1,0 +1,19 @@
+body {
+    background-color: #B1C6E2;
+    padding: 20px;
+}
+
+h1 {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+p {
+    background-color: white;
+    color: #000;
+    border-radius: 10px;
+    width: 200px;
+    height: 20px;
+    padding: 10px;
+}
